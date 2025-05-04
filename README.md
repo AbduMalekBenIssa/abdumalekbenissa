@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-### 📄 [Resume](https://docs.google.com/document/d/1cD4Ei8h0ubAkZYktGSogSplai1pAoLMeOU_OwHKMKHM/edit?usp=sharing)
+### 📄 [Resume](https://drive.google.com/file/d/1raPOGC89RXql0Oe7v_zajNM0c-j-SXrg/view?usp=sharing)
 
 🚀 I’m currently working on<br>Building URide, a university-exclusive carpooling platform focused on affordable, trusted commuting.<br><br>🤝 I’m looking to collaborate on<br>Tech projects involving backend development, automation, or early stage startups. I also love teaming up at hackathons and tech competitions.<br><br>🧠 I’m looking for help with<br>Expanding my skills in cybersecurity and building autonomous applications that create real-world impact and make everyday life more efficient and accessible.<br><br>🌱 I’m currently learning<br>Advanced server management, database optimization, and automating deployment pipelines with scripting and serverless tools.<br><br>💬 Ask me about<br>Setting up servers, creating scripts to automate tasks, building custom gaming PCs, or how I structure backend architectures for projects like URide.<br><br>⚡ Fun fact<br>I landed my first internship at the age of 15, and ever since, I've been passionate about solving real-world problems through technology — whether that's through my projects, volunteering, or competing in hackathons.<br><br>🌟 Outside of coursework<br>I love building custom gaming setups, collaborating at tech events and hackathons, and volunteering for community-driven tech initiatives.
 
