@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Abdu, a Computer Science student at the University of Calgary. I'm interested in software development and cybersecurity.
+I'm AbduMalek, a 2nd year Computer Science student at the University of Calgary. I'm interested in software development and cybersecurity.
 
 ### Contact Me
 
