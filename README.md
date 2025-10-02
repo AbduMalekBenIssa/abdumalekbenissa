@@ -6,14 +6,6 @@ I'm Abdu, a Computer Science student at the University of Calgary. I build thing
 
 If you'd like to get in touch, feel free to reach out. I'm always happy to chat about projects or collaborate on new ideas.
 
-### Fun Facts
-
-- 🌍 I enjoy solving problems through code
-- 🎮 I built a Chrome extension to help me stay focused
-- 🚗 Created a carpooling platform for university students
-- 📊 Built a stock portfolio tracker with real-time data
-- 🤖 Working on automation and web scraping projects
-
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
