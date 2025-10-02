@@ -1,10 +1,10 @@
 ## Hello there 👋
 
-I'm Abdu, a Computer Science student at the University of Calgary. I build things that solve real problems - whether that's automating tasks, creating productivity tools, or building apps that make life easier.
+I'm Abdu, a Computer Science student at the University of Calgary. I'm interested in software development and cybersecurity.
 
 ### Contact Me
 
-If you'd like to get in touch, feel free to reach out. I'm always happy to chat about projects or collaborate on new ideas.
+Feel free to reach out if you want to talk about projects or collaborate.
 
 ### Languages
 
