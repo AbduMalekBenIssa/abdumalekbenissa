@@ -1,31 +1,32 @@
 ## Hey there 👋
 
-I'm Abdu Malek Ben Issa. I build stuff that automates boring tasks and solves problems I run into. Currently working on web scraping projects and automation tools.
+I'm Abdu Malek Ben Issa, studying Computer Science at the University of Calgary. I like building tools that solve real problems and make life easier.
 
-### What I'm working on
+### What I've built
 
-- Building automation tools for everyday tasks
-- Web scraping and data extraction projects
-- Schedule monitoring and notification systems
+**[URide Hackathon Demo](https://github.com/AbduMalekBenIssa/uride-hackathon-demo)** - TypeScript  
+University carpooling platform focused on making commuting affordable and trusted for students. Built for a hackathon.
 
-### Contact
+**[FlowGuard Extension](https://github.com/AbduMalekBenIssa/flowguard-extension)** - JavaScript  
+Browser extension to help maintain focus and productivity.
 
-Feel free to reach out if you want to collaborate or chat about projects.
+**[PFG Shift Scraper](https://github.com/AbduMalekBenIssa/pfg-shift-scraper)** - Python  
+Automated work schedule monitoring system that scrapes my shifts from the TM Portal and sends email notifications. Set it up so I don't have to constantly check for schedule changes.
 
-### Languages
+**[Stock Tracker](https://github.com/AbduMalekBenIssa/stocktracker)** - Java  
+Tool for tracking stock prices and portfolio performance.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**[Ethics Ed Game](https://github.com/AbduMalekBenIssa/ethics-ed-game)** - JavaScript  
+Educational game exploring ethical decision making.
 
-### Tools & Frameworks
+### Tech I use
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+**Languages:** Python, JavaScript, TypeScript, Java, HTML, CSS
 
-### Recent Projects
+**Tools & Frameworks:** Selenium, BeautifulSoup, Git, SQLite, React, Node.js
 
-- **[PFG Shift Scraper](https://github.com/AbduMalekBenIssa/pfg-shift-scraper)** - Automated work schedule monitoring and email notification system
+**Currently learning:** Web scraping at scale, automation workflows
+
+### Reach out
+
+Feel free to connect if you want to collaborate on projects or just talk tech.
